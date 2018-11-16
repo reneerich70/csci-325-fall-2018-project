@@ -97,10 +97,12 @@ public class Main  {
         myFleet.addBoat(new TugBoat("Theodore", 1989,58));
         System.out.println("This is the current Fleet List: ");
         System.out.println(myFleet.getFleet());
+        System.out.println(" ");
               
         //remove a boat from the fleet--hardcoded test data
         myFleet.removeBoat("LittleMinnow", 1960);
         System.out.println("Little Minnow was removed.");
+        System.out.println(" ");
         
         //get the new Fleet List
         System.out.println("This is the new Fleet List:");
