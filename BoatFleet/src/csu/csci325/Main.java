@@ -1,7 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * STUDENT NAME: Dondra Crocker Richards
+ * PROGRAM NAME: Fleet.java
+ * PURPOSE: To store data about a fleet of boats using an ArrayList to remove,
+ *          retrieve, and add boats to the fleet.
+ * Creation Date: October 04, 2018
+ * LastModified Date: November 16, 2108
+ * CSCI Course: CSCI - 325 Object Oriented Programming
+ * Grade Received: A
+ * Comments Regarding Design: This program was developed using Java SE8. It is
+ *                            designed to be run in the console. An executable
+ *                            .jar file has been added to the GitHub repository.
  */
 package csu.csci325;
 import java.util.Scanner;
